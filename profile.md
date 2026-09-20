@@ -5,4 +5,5 @@
 ###### 这是 `<h6>` 六级标题，字号最小
 
 
-![Mona the Octocat](https://octodex.github.com/images/original.png)
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png"
+width="200" align="center">
